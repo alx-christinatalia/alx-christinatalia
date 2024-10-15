@@ -43,7 +43,6 @@ I'm really interested in system development and have demonstrated this through m
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alx-christinatalia&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alx-christinatalia&layout=compact&theme=vision-friendly-dark)](https://github.com/alx-christinatalia/github-readme-stats)
 
